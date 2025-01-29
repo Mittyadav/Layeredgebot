@@ -17,8 +17,10 @@
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/airdropinsiders/LayerEdge-Auto-Bot.git
-    cd LayerEdge-Auto-Bot
+    git clone https://github.com/Mittyadav/Layeredgebot.git
+    ```
+    ```sh
+     cd Layeredgebot
     ```
 
 2. Install the required dependencies:
